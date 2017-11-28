@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<StackPane fx:id="aboutMenu" alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="library.system.controller.AboutMenuController">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Library System">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+   </children>
+   <padding>
+      <Insets top="30.0" />
+   </padding>
+</StackPane>
