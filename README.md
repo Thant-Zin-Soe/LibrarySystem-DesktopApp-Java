@@ -71,4 +71,4 @@ JavaFX: For building a modern and interactive user interface.
 MySQL: For reliable database management.
 Open-source libraries and tools for seamless development.
 
- [This project  had been 7 years,  ..this is my very first language and learned from all the basic to advance form Sayar SithuPaing]
+ [This project  had been 7 years,  ..this is my very first language and learned  all the basic to advance form Sayar SithuPaing]
